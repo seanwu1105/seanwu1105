@@ -8,8 +8,8 @@ I am Shuang Wu.
 - ✅ I highly value software readability and maintainability
 - ✨ I am always excited to learn new technology and skills
 
-<div style="text-align: center;">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seanwu1105&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=seanwu1105&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
 
-</div>
+</p>
