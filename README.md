@@ -1,10 +1,6 @@
 Hi there,
 
-I am Shuang Wu.
-
-- 💻 I am proficient in Android and hybrid app development
-- ✅ I highly value software readability and maintainability
-- ✨ I am always excited to learn new technology and skills
+I am Shuang Wu. I try to write some colorful texts on black window for living.
 
 <p align="center">
 
