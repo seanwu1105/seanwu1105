@@ -1,6 +1,6 @@
 Hi there,
 
-I am Shuang Wu. I try to enter some colorful texts on a black window for living.
+I am Shuang Wu.
 
 <p align="center">
 
